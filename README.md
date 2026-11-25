@@ -2,6 +2,8 @@
 
 Desenvolvido usando o compilador GHC 9.x
 
+Vídeo: https://youtu.be/f5-vPqGU2GI
+
 ## Como compilar e executar
 
 Na pasta *src*:
